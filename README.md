@@ -1,4 +1,4 @@
-# Celeritas
+# Freyja game framework
 
 ## Design Goals
 
