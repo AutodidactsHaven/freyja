@@ -29,7 +29,7 @@ engine_init :: proc(engine: ^Engine) {
 	engine.window = glfw.CreateWindow(
 		WINDOW_WIDTH,
 		WINDOW_HEIGHT,
-		"Celeritas Engine Test",
+		"Freyja Framework Test",
 		nil,
 		nil,
 	)

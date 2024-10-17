@@ -6,7 +6,7 @@ import "core:mem"
 import "vendor:glfw"
 import vk "vendor:vulkan"
 
-// The backends currently supported by Celeritas
+// The backends currently supported by freyja
 APIBackend :: enum {
 	Vulkan,
 	Metal,
